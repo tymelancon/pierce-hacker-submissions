@@ -38,5 +38,9 @@ Canvas can be a confusng website/program to work with. It being web-based tends 
 
 ## Lesson Steps/Components [as many as needed]
 
+## Using Canvas via Mobile Devices
+
+This section will explain the same things as the above instructions, but for the mobile APP for Canvas. This app is available on both Android and iPhone devices. If you do not yet have this APP and need help installing it click [HERE](https://github.com/tymelancon/Pierce-Hacker/blob/master/Installing_Canvas.md) for that tutorial.
+
 ## Credits, Further Reading, etc.
 
